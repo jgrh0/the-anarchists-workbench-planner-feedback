@@ -4,7 +4,13 @@ Use this repository to leave feedback, report issues, and share ideas for improv
 
 ## About The App
 
-The Anarchist's Workbench Planner is a browser-based planning tool for an Anarchist's Workbench-style build. It helps woodworkers turn their target bench dimensions and available stock into practical part lists and material plans before they start cutting.
+The Anarchist's Workbench Planner is a browser-based planning tool for an
+Anarchist's Workbench-style build. I built it to help with my own workbench
+build, and it is an unofficial project. I made it public and free of charge so
+it can help other woodworkers starting the same build.
+
+If you need the book itself, buy it from the publisher:
+[Lost Art Press - The Anarchist's Workbench](https://lostartpress.com/products/the-anarchists-workbench).
 
 ## Core Functionality
 
