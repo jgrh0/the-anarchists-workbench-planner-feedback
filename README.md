@@ -21,6 +21,7 @@ If you need the book itself, buy it from the publisher:
   - `crosscut-first`
 - Supports optional groups like shelves, planing stop, and leg vice jaw
 - Lets users share and restore configurations through URL/local save behavior
+- Downloads separate CSVs for composite parts and grouped cutlists, with numeric dimensions and units
 
 ## How To Leave Feedback
 
